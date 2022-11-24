@@ -14,4 +14,9 @@
         android:layout_marginTop="64dp"
         android:layout_gravity="center_horizontal"
         android:text="Call API"/>
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
